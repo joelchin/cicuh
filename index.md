@@ -50,11 +50,11 @@ We meet regularly for prayer, worship, Bible reading, and fellowship.
   <a class="btn btn--success"
      href="https://calendar.google.com/calendar/r?cid=cuhchristians@gmail.com"
      target="_blank" rel="noopener">
-    📅 Add in Google Calendar <br><small>(instant updates)</small>
+    📅 Add in Google Calendar 
   </a>
 
   <a class="btn btn--info"
      href="webcal://calendar.google.com/calendar/ical/cuhchristians%40gmail.com/public/basic.ics">
-    🍏 Subscribe in iPhone/Apple Calendar <br><small>(updates may be delayed)</small>
+    🍏 Subscribe in iPhone/Apple Calendar
   </a>
 </p>
